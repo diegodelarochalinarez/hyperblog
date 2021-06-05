@@ -2,3 +2,4 @@ Ahora es un ejemplo
 de documento para 
 el uso de git.
 Modificación del archivo
+Quiero aprender git para trabajar
